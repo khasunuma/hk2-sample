@@ -32,7 +32,7 @@ import org.glassfish.hk2.api.ServiceLocator;
 import org.glassfish.hk2.api.ServiceLocatorFactory;
 import org.glassfish.hk2.utilities.BuilderHelper;
 
-import jp.coppermine.samples.hk2.named.Greeter;
+import jp.coppermine.samples.hk2.inject.Greeter;
 
 public class ManualAppMain {
 
